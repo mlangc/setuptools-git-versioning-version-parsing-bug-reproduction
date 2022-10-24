@@ -1,0 +1,1 @@
+setuptools-git-versioning==1.12.0
